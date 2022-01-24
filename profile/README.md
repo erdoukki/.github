@@ -7,4 +7,4 @@
 🌈 Contribution guidelines - OpenSource hack and code, in respect of human rights. \
 👩‍💻 Useful resources - So, Enjoy or made it better by yourself. \
 🍿 Fun facts - Stay tuned for more (or do it yourself...) :sunglasses: \
-🧙 Remember, use it at your own risks... \
+🧙 Remember, use it at your own risks... 
