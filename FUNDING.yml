@@ -1,4 +1,5 @@
 # These are supported funding model platforms
 
-patreon: cybermind
 custom: ["https://paypal.me/Kerma"]
+opencollective: cybermind
+patreon: cybermind
